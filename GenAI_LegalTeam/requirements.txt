@@ -1,0 +1,4 @@
+streamlit
+agno
+duckduckgo-search
+chromadb
