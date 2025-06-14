@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-google-genai
+agno
+llama-index
+PyPDF2
+chromadb
+duckduckgo-search
+ollama
+google-genai
+langchain_community
