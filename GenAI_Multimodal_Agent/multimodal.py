@@ -1,5 +1,5 @@
 import os
-os.environ['GOOGLE_API_KEY'] = "AIzaSyCIwRrRl9mXBOCShg_oPJWzjlsHQtjXjyA"
+os.environ['GOOGLE_API_KEY'] = ""
 
 import streamlit as st
 from agno.agent import Agent
