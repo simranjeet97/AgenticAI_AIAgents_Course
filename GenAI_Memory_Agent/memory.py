@@ -8,8 +8,8 @@ from agno.models.google import Gemini
 from agno.tools.duckduckgo import DuckDuckGoTools
 
 # Set environment variables
-os.environ["MEM0_API_KEY"] = "m0-OvNHLIrlaTlIJlIhHLMVkzLCiSHzXGcIlVYAa95d"
-GOOGLE_API_KEY = "AIzaSyCr35hxFrpVsbNWgqOwU6PwmkpwLmO2dJA"
+os.environ["MEM0_API_KEY"] = ""
+GOOGLE_API_KEY = ""
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 # LLM Configuration
