@@ -4,6 +4,8 @@ Welcome to the **Agentic AI Course**, where we explore the next frontier of AI: 
 
 ---
 
+## 🎬 Live Video Tutorials: https://www.youtube.com/playlist?list=PLYIE4hvbWhsAkn8VzMWbMOxetpaGp-p4k
+
 ## 📌 What You Will Learn
 
 ### **1️⃣ Understanding AI Agents**
